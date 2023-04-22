@@ -1,0 +1,1 @@
+docker pull sonoisa/deep-learning-coding:pytorch1.12.0_tensorflow2.9.1
